@@ -1,7 +1,7 @@
 # Experiment No. 19-20: Real-World and Interactive Visualization (COVID-19 Analysis)
 
-**Name:** Vibhas Shukla  
-**PRN:** 25070123164  
+**Name:** Srujan n  
+**PRN:** 25070123140
 **Branch:** F.Y. E&TC (2025–29)  
 **Batch:** A1  
 **Subject:** Exploratory Data Analysis with Python  
